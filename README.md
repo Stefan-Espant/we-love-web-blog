@@ -1,4 +1,6 @@
-# Dynamisch we web ♥ blog 
+# Dynamisch we web ♥ blog
+
+## Kenmerken
 
 ## Bronnen
 
